@@ -1,0 +1,101 @@
+Edad;Formacion;Empleo;Residencia;Ingreso;Deud_ing;Deud_tarj;Deud_otr;Impago
+mas de 40;estudios universitarios;más de 10 años;más de 10 años;176;9,3;11,36;5,01;Si
+mas de 40;elemental;más de 10 años;más de 10 años;55;5,5;0,86;2,17;No
+mas de 40;elemental;más de 10 años;más de 10 años;120;2,9;2,66;0,82;No
+menos de 30;bachillerato;menos de 5 años;menos de 5 años;28;17,3;1,79;3,06;Si
+entre 30 y 40;elemental;más de 10 años;entre 5 y 10 años;67;30,6;3,83;16,67;No
+mas de 40;elemental;más de 10 años;más de 10 años;38;3,6;0,13;1,24;No
+menos de 30;elemental;menos de 5 años;menos de 5 años;19;24,4;1,36;3,28;Si
+menos de 30;elemental;menos de 5 años;menos de 5 años;16;1,7;0,18;0,09;No
+mas de 40;elemental;más de 10 años;más de 10 años;100;9,1;3,7;5,4;No
+entre 30 y 40;bachillerato;más de 10 años;entre 5 y 10 años;41;16,4;2,92;3,81;Si
+mas de 40;elemental;más de 10 años;más de 10 años;72;7,6;1,18;4,29;No
+entre 30 y 40;elemental;entre 5 y 10 años;entre 5 y 10 años;61;5,7;0,56;2,91;No
+mas de 40;estudios universitarios;menos de 5 años;más de 10 años;26;1,7;0,1;0,34;No
+entre 30 y 40;elemental;más de 10 años;menos de 5 años;52;3,2;1,15;0,51;No
+mas de 40;elemental;más de 10 años;más de 10 años;43;5,6;0,59;1,82;No
+menos de 30;bachillerato;menos de 5 años;menos de 5 años;16;18;0,24;2,64;Si
+mas de 40;bachillerato;entre 5 y 10 años;más de 10 años;69;6,7;0,71;3,92;No
+mas de 40;elemental;más de 10 años;más de 10 años;64;16,7;0,95;9,74;No
+mas de 40;elemental;menos de 5 años;más de 10 años;20;2,1;0,11;0,32;No
+menos de 30;elemental;entre 5 y 10 años;menos de 5 años;35;2,9;0,08;0,94;No
+menos de 30;bachillerato;menos de 5 años;entre 5 y 10 años;24;17,1;1,34;2,77;Si
+mas de 40;elemental;más de 10 años;menos de 5 años;50;4,2;0,56;1,54;No
+menos de 30;elemental;entre 5 y 10 años;menos de 5 años;31;6,6;0,34;1,71;No
+mas de 40;bachillerato;entre 5 y 10 años;más de 10 años;41;4,6;0,94;0,94;No
+entre 30 y 40;elemental;más de 10 años;más de 10 años;35;4,5;0,43;1,14;No
+menos de 30;bachillerato;menos de 5 años;menos de 5 años;21;11,4;0,78;1,62;Si
+entre 30 y 40;elemental;más de 10 años;menos de 5 años;42;7,4;0,21;2,9;No
+entre 30 y 40;elemental;menos de 5 años;más de 10 años;25;12,6;0,57;2,58;Si
+mas de 40;elemental;más de 10 años;más de 10 años;52;12,9;3,03;3,68;Si
+entre 30 y 40;estudios universitarios;menos de 5 años;más de 10 años;25;3,7;0,31;0,61;No
+entre 30 y 40;elemental;menos de 5 años;menos de 5 años;24;15,1;1,8;1,82;Si
+entre 30 y 40;elemental;entre 5 y 10 años;menos de 5 años;34;5;0,4;1,3;No
+entre 30 y 40;bachillerato;más de 10 años;más de 10 años;69;2,4;1,06;0,59;No
+mas de 40;estudios universitarios;más de 10 años;entre 5 y 10 años;100;2,5;1,49;1,02;No
+mas de 40;estudios universitarios;más de 10 años;más de 10 años;80;12,2;2,48;7,28;No
+entre 30 y 40;elemental;entre 5 y 10 años;más de 10 años;28;2,4;0,05;0,62;No
+entre 30 y 40;bachillerato;más de 10 años;entre 5 y 10 años;75;23,3;7,76;9,72;Si
+menos de 30;bachillerato;entre 5 y 10 años;menos de 5 años;31;8,2;1,49;1,05;Si
+menos de 30;elemental;menos de 5 años;menos de 5 años;20;18,6;0,57;3,15;Si
+mas de 40;elemental;más de 10 años;más de 10 años;100;12,8;4,58;8,22;No
+mas de 40;elemental;más de 10 años;más de 10 años;44;1,7;0,07;0,68;No
+menos de 30;elemental;menos de 5 años;menos de 5 años;21;0,6;0,03;0,1;No
+entre 30 y 40;elemental;más de 10 años;menos de 5 años;37;2,6;0,2;0,76;No
+entre 30 y 40;elemental;más de 10 años;más de 10 años;39;3,2;0,69;0,56;No
+menos de 30;elemental;menos de 5 años;menos de 5 años;27;10,5;2,47;0,36;Si
+menos de 30;bachillerato;menos de 5 años;menos de 5 años;36;12,4;3,49;0,97;Si
+entre 30 y 40;elemental;más de 10 años;más de 10 años;28;2,9;0,12;0,7;No
+menos de 30;bachillerato;menos de 5 años;menos de 5 años;17;27,7;2,04;2,67;Si
+entre 30 y 40;elemental;menos de 5 años;más de 10 años;23;6,2;0,05;1,37;No
+menos de 30;elemental;menos de 5 años;entre 5 y 10 años;15;11,4;0,37;1,34;Si
+entre 30 y 40;elemental;menos de 5 años;menos de 5 años;54;10,6;1,5;4,22;No
+mas de 40;estudios universitarios;menos de 5 años;menos de 5 años;15;26,3;1,96;1,98;Si
+entre 30 y 40;elemental;más de 10 años;entre 5 y 10 años;54;4,4;0,73;1,65;No
+mas de 40;estudios universitarios;más de 10 años;menos de 5 años;82;3,3;1,32;1,39;No
+mas de 40;elemental;más de 10 años;entre 5 y 10 años;52;7,3;0,93;2,87;No
+entre 30 y 40;estudios universitarios;menos de 5 años;entre 5 y 10 años;31;9,3;1,33;1,55;Si
+entre 30 y 40;elemental;más de 10 años;entre 5 y 10 años;113;2,6;0,99;1,95;No
+mas de 40;bachillerato;más de 10 años;más de 10 años;121;3,1;1,37;2,39;No
+mas de 40;elemental;entre 5 y 10 años;más de 10 años;28;3,6;0,53;0,47;No
+entre 30 y 40;bachillerato;más de 10 años;más de 10 años;60;7,9;1,72;3,02;No
+mas de 40;estudios universitarios;menos de 5 años;menos de 5 años;39;4,9;0,46;1,45;No
+entre 30 y 40;elemental;entre 5 y 10 años;menos de 5 años;41;8,9;0,27;3,38;No
+mas de 40;elemental;más de 10 años;más de 10 años;64;8,6;1,87;3,64;No
+menos de 30;bachillerato;menos de 5 años;entre 5 y 10 años;33;5,2;0,55;1,16;No
+mas de 40;bachillerato;más de 10 años;más de 10 años;73;3,4;1,03;1,45;No
+entre 30 y 40;bachillerato;menos de 5 años;menos de 5 años;27;12,8;1,09;2,37;Si
+entre 30 y 40;estudios universitarios;entre 5 y 10 años;menos de 5 años;27;35,3;1,98;7,55;Si
+entre 30 y 40;elemental;menos de 5 años;menos de 5 años;22;12,7;1,09;1,7;Si
+menos de 30;elemental;menos de 5 años;entre 5 y 10 años;22;2,8;0,14;0,48;No
+mas de 40;elemental;entre 5 y 10 años;más de 10 años;43;4,4;0,69;1,2;No
+menos de 30;bachillerato;entre 5 y 10 años;menos de 5 años;36;1,4;0,13;0,38;No
+mas de 40;bachillerato;más de 10 años;menos de 5 años;68;5,8;1,51;2,44;No
+menos de 30;estudios universitarios;menos de 5 años;entre 5 y 10 años;27;2,9;0,31;0,47;No
+menos de 30;bachillerato;entre 5 y 10 años;entre 5 y 10 años;57;2,2;0,45;0,8;No
+menos de 30;elemental;menos de 5 años;menos de 5 años;16;16;1,01;1,55;Si
+menos de 30;elemental;entre 5 y 10 años;entre 5 y 10 años;45;17,8;2,85;5,16;Si
+mas de 40;estudios universitarios;más de 10 años;más de 10 años;135;4,4;1,28;4,66;No
+mas de 40;elemental;más de 10 años;más de 10 años;68;5,4;0,45;3,22;No
+mas de 40;bachillerato;menos de 5 años;menos de 5 años;41;3,4;0,36;1,04;No
+mas de 40;elemental;entre 5 y 10 años;menos de 5 años;28;14,8;1,56;2,59;Si
+entre 30 y 40;elemental;entre 5 y 10 años;menos de 5 años;29;13,8;1,35;2,65;Si
+entre 30 y 40;elemental;entre 5 y 10 años;menos de 5 años;26;4,5;0,31;0,86;No
+menos de 30;estudios universitarios;menos de 5 años;entre 5 y 10 años;44;8,7;0,77;3,05;No
+entre 30 y 40;elemental;entre 5 y 10 años;entre 5 y 10 años;26;4,1;0,33;0,74;No
+entre 30 y 40;bachillerato;menos de 5 años;entre 5 y 10 años;24;12,5;0,59;2,41;Si
+menos de 30;elemental;menos de 5 años;menos de 5 años;24;15,6;1,64;2,11;Si
+mas de 40;estudios universitarios;más de 10 años;menos de 5 años;44;1,7;0,35;0,39;No
+entre 30 y 40;elemental;más de 10 años;entre 5 y 10 años;79;4;1,73;1,43;No
+menos de 30;bachillerato;entre 5 y 10 años;menos de 5 años;34;7;0,36;2,02;No
+entre 30 y 40;bachillerato;menos de 5 años;más de 10 años;35;22,9;2,12;5,89;Si
+entre 30 y 40;elemental;más de 10 años;más de 10 años;46;5;0,56;1,74;No
+mas de 40;bachillerato;entre 5 y 10 años;más de 10 años;57;5,6;0,88;2,31;No
+mas de 40;estudios universitarios;más de 10 años;más de 10 años;80;3;0,91;1,49;No
+mas de 40;elemental;más de 10 años;más de 10 años;43;15;2,79;3,66;Si
+menos de 30;bachillerato;menos de 5 años;menos de 5 años;22;13,2;1,09;1,82;Si
+entre 30 y 40;bachillerato;más de 10 años;menos de 5 años;40;7,2;0,18;2,7;No
+menos de 30;elemental;menos de 5 años;menos de 5 años;33;4,2;0,5;0,89;No
+entre 30 y 40;estudios universitarios;entre 5 y 10 años;más de 10 años;28;4,3;0,38;0,83;No
+mas de 40;elemental;entre 5 y 10 años;más de 10 años;47;6,9;0,4;2,84;No
+entre 30 y 40;bachillerato;entre 5 y 10 años;entre 5 y 10 años;32;23,1;3,34;4,05;Si
